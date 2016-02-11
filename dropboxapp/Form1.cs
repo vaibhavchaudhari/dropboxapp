@@ -18,6 +18,7 @@ namespace dropboxapp
         private string CurrentPath = "/";
         public Form1()
         {
+            MessageBox.Show("Cloned");
             InitializeComponent();
         }
 
